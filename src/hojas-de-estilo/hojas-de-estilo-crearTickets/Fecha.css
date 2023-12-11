@@ -1,0 +1,3 @@
+.date[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+}
